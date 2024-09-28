@@ -2,8 +2,6 @@
 
 currently learning how github works
 
-gimme a few weeks and i'll be pro
-
 just got student developer pack so im hyped
 
 <!--
