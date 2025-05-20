@@ -9,11 +9,11 @@ I'm a passionate developer with experience in web development, databases, and AI
 - 🎤 Built **SpeakSavvy**, an AI-driven web app to enhance presentation skills using **Node.js, React.js, Flask, Groq, Mistral AI, and Microsoft Azure Speech-to-Text**
 
 ## 💻 Tech Stack
-- **Frontend:** JavaScript, HTML, CSS, Node.js, React.js
-- **Backend:** Python
-- **Databases:** SQL
-- **AI/ML:** Microsoft Azure Speech-to-Text, Mistral AI, Groq
-- **Tools:** Git, Figma, Postman, Visual Studio Code, Eclipse
+- **Programming Languages:**  Python, Java, C++, HTML/CSS, C, JavaScript, PHP, SQL, MATLAB 
+- **Python Libraries:** Groq, Numpy, Pandas, Pytorch, MatPlotLib, Dash, discord, async
+- **Shell Scripting:** Bash
+-  **Cloud Services:** Microsoft Azure Speech-to-Text
+- **Tools:** Visual Studio Code, Git, GitHub, Trello, Jupyter Notebooks, Eclipse, Google Drive, Microsoft Office, Figma
 
 ## 🔨 Projects
 - 🎨 **Campus Hobby Planner** - A Figma-designed app for students to plan and join hobby-related events.
