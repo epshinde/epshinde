@@ -22,7 +22,7 @@ I'm a passionate developer with experience in web development, databases, and AI
 - ⛹️‍♂️ **Bounce-Back** - A comprehensive career transition app that provides tailored learning plans for professionals looking to re-enter or pivot within any industry.
 
 ## 🌱 Currently Learning
-- Next.js
+- React.js
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/epshinde/)  
