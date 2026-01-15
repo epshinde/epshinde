@@ -21,9 +21,6 @@ I'm a passionate developer with experience in web development, databases, and AI
 - 🤖 **Discord Bot** -  Interacts with users on the Discord communication platform. Programmed in Python and Node.js separately with the use of external libraries such as async and discord.py, and axios and discord.js. 
 - ⛹️‍♂️ **Bounce-Back** - A comprehensive career transition app that provides tailored learning plans for professionals looking to re-enter or pivot within any industry.
 
-## 🌱 Currently Learning
-- React.js
-
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/epshinde/)  
 - 📧 Email: [epshinde@icloud.com](mailto:epshinde@icloud.com)
