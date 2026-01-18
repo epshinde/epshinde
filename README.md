@@ -9,8 +9,9 @@ I'm a passionate developer with experience in web development, databases, and AI
 - 🎤 Built **SpeakSavvy**, an AI-driven web app to enhance presentation skills using **Node.js, React.js, Flask, Groq, Mistral AI, and Microsoft Azure Speech-to-Text**
 
 ## 💻 Tech Stack
-- **Programming Languages:**  Python, Java, C++, HTML/CSS, C, JavaScript, PHP, SQL, MATLAB
-- **Databases:** MySQL, MongoDB 
+- **Programming Languages:**  Python, Java, C++, C, JavaScript, PHP, SQL, MATLAB
+- **Databases:** MySQL, MongoDB
+- **JavaScript Libraries:** React.js, 
 - **Python Libraries:** Groq, Numpy, Pandas, Pytorch, MatPlotLib, Dash, discord, async
 - **Shell Scripting:** Bash
 -  **Cloud Services:** Microsoft Azure Speech-to-Text
